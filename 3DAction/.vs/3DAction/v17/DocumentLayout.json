@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8B41974B-1A7C-9D81-7AAA-B517040600BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tpsballcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B41974B-1A7C-9D81-7AAA-B517040600BF}|Assembly-CSharp.csproj|c:\\users\\ktc\\documents\\unity\\ishikurasouta\\3daction\\3daction\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B41974B-1A7C-9D81-7AAA-B517040600BF}|Assembly-CSharp.csproj|C:\\Users\\ktc\\Documents\\unity\\ISHIKURASOUTA\\3DAction\\3DAction\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B41974B-1A7C-9D81-7AAA-B517040600BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\TpsBallCamera.cs",
               "ToolTip": "C:\\Users\\ktc\\Documents\\unity\\ISHIKURASOUTA\\3DAction\\3DAction\\Assets\\Scripts\\TpsBallCamera.cs",
               "RelativeToolTip": "Assets\\Scripts\\TpsBallCamera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-31T07:17:07.197Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T06:34:41.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T06:34:41.829Z"
             }
           ]
         }
