@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\unity\\ISHIKURASOUTA\\3DAction\\3DAction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B41974B-1A7C-9D81-7AAA-B517040600BF}|Assembly-CSharp.csproj|c:\\users\\ktc\\documents\\unity\\ishikurasouta\\3daction\\3daction\\assets\\scripts\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B41974B-1A7C-9D81-7AAA-B517040600BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B41974B-1A7C-9D81-7AAA-B517040600BF}|Assembly-CSharp.csproj|c:\\users\\ktc\\documents\\unity\\ishikurasouta\\3daction\\3daction\\assets\\scripts\\tpsballcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B41974B-1A7C-9D81-7AAA-B517040600BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tpsballcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Billboard.cs",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\unity\\ISHIKURASOUTA\\3DAction\\3DAction\\Assets\\Scripts\\Billboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Billboard.cs",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\unity\\ISHIKURASOUTA\\3DAction\\3DAction\\Assets\\Scripts\\Billboard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Billboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T07:15:05.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TpsBallCamera.cs",
               "DocumentMoniker": "C:\\Users\\ktc\\Documents\\unity\\ISHIKURASOUTA\\3DAction\\3DAction\\Assets\\Scripts\\TpsBallCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TpsBallCamera.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\ktc\\Documents\\unity\\ISHIKURASOUTA\\3DAction\\3DAction\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
